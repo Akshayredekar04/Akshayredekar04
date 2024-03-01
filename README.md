@@ -12,20 +12,43 @@ As a Computer Engineering student, I'm continually expanding my knowledge and sh
   
 ## 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-013243?style=plastic&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-150458?style=plastic&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00f?style=plastic&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-013243?style=plastic&logo=restapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-150458?style=plastic&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-013243?style=plastic&logo=scikitlearn&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-00f?style=plastic&logo=docker&logoColor=white)
-
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+</p>
 
 Let's connect and collaborate on exciting projects!
-
