@@ -25,8 +25,7 @@ As a Computer Engineering student, I'm continually expanding my knowledge and sh
 ![Django](https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-013243?style=plastic&logo=scikitlearn&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-00f?style=plastic&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-013243?style=plastic&logo=apachekafka&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-013243?style=plastic&logo=jenkins&logoColor=white)
+
 
 Let's connect and collaborate on exciting projects!
 
